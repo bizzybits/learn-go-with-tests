@@ -2,4 +2,6 @@
 
 
 Learning to write Go from TDD and tests!
-https://quii.gitbook.io/learn-go-with-tests/ 
+
++[GitBook](https://quii.gitbook.io/learn-go-with-tests/)
++[Github](https://github.com/quii/learn-go-with-tests)
